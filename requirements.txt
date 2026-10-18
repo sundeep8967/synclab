@@ -1,0 +1,2 @@
+# SyncLab core dependencies (built on standard library, zero external runtime deps required)
+pytest>=7.0.0
