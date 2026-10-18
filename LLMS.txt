@@ -4,9 +4,12 @@
 ## Project Summary
 - Project: SyncLab
 - Purpose: Real-Time Collaborative WebRTC Code & Architecture Whiteboard Sandbox.
-- Target Competition: "BUiLDX (Code-A-Nova)" on Unstop.
+- Target Competition: "BUiLDX (Code-A-Nova)"
+- Hackathon Submission Link: https://unstop.com/hackathons/buildx-code-a-nova
+- Submission Platform: Unstop
+- Submission Deadline: November 8, 2026
 - Primary Stack: Python 3.10+, Sequence CRDTs (Conflict-Free Replicated Data Types), WebRTC Presence, Ephemeral Sandboxed Subprocesses.
-- Repository Root: .
+- Repository Root: /Users/apple/Desktop/anto/synclab
 
 ## Core System Modules
 1. `core/crdt_doc.py`:
